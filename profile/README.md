@@ -33,11 +33,11 @@ Untuk melihat demo Aplikasi Pengajuan Judul Skripsi TI-FKOM-UNIKU, silahkan liha
 
 ## Teknologi dan Tools yang Digunakan
 
-**Bahasa Pemrograman:** PHP
+**Bahasa Pemrograman :** PHP
 
-**Framework** codeIgniter 4, Boostrap 5
+**Framework :** codeIgniter 4, Boostrap 5
 
-**Alat Pendukung Pengembangan** Visual Studio Code, XAMPP
+**Alat Pendukung Pengembangan :** Visual Studio Code, XAMPP
 
 ## Buku Panduan
 
