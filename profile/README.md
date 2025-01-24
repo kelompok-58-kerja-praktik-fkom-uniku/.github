@@ -21,11 +21,10 @@ Prodi bertanggung jawab untuk membuat semua akun pengguna (mahasiswa, dosen pemb
 
 ## Screenshots
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/61fa396d-da1d-446f-8a4a-3f110fc27495" width="20%">
-   <img src="https://github.com/user-attachments/assets/a5899512-e848-4429-b583-48b5f439cd30" width="20%">
-   <img src="https://github.com/user-attachments/assets/787dabbb-9dc9-4097-981d-51eef0b7a9ec" width="20%">
-   <img src="https://github.com/user-attachments/assets/2562746b-e59c-41a8-9cd5-3d4c8397b6cf" width="20%">
- <img src="https://github.com/user-attachments/assets/01b13b50-0d4b-44c3-8edc-059b838f2922" width="20%">
+   <img src="https://github.com/user-attachments/assets/61fa396d-da1d-446f-8a4a-3f110fc27495" width="30%">
+   <img src="https://github.com/user-attachments/assets/a5899512-e848-4429-b583-48b5f439cd30" width="30%">
+   <img src="https://github.com/user-attachments/assets/787dabbb-9dc9-4097-981d-51eef0b7a9ec" width="30%">
+   <img src="https://github.com/user-attachments/assets/2562746b-e59c-41a8-9cd5-3d4c8397b6cf" width="30%">
 </p>
 
 ## Demo
