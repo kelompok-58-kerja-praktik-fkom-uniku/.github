@@ -47,7 +47,7 @@ Kami menyediakan buku panduan Aplikasi Pengajuan Judul Skripsi TI-FKOM-UNIKU yan
 
 Aplikasi Pengajuan Judul Skripsi TI-FKOM-UNIKU adalah hak cipta milik Kelompok 58 Kerja Praktik Fakultas Ilmu Komputer Universitas Kuningan Tahun 2024.
 
-Dosen Pembimbing : 
+Dosen Pembimbing : <br>
 Yati Nurhayati, S.Kom., M.Kom.
 
 Anggota Kelompok :
