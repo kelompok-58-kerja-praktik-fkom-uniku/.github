@@ -13,7 +13,7 @@
 - Mahasiswa dapat mengajukan judul skripsi secara online dengan mengisi formulir yang telah disediakan, serta melampirkan dokumen pendukung seperti jurnal penelitian atau proposal.
 - Sistem memungkinkan program studi DBS untuk memvalidasi dan menyetujui pengajuan judul secara elektronik, dengan proses persetujuan yang terstruktur dan dapat dipantau oleh mahasiswa.
 - Mahasiswa dapat melihat status pengajuan judul mereka secara real-time, mengetahui apakah judul sudah disetujui, masih dalam proses, atau perlu revisi. Jika judul ditolak atau perlu revisi, mahasiswa dapat memperbarui atau mengajukan ulang judul yang telah direvisi dengan mudah melalui sistem.
-- Sistem dapat memberikan notifikasi otomatis kepada mahasiswa, program studi dan DBS  terkait status pengajuan, tenggat waktu, atau hal-hal penting lainnya, sehingga meminimalkan risiko terlambat atau terlewatkan.
+- Sistem dapat memberikan notifikasi otomatis kepada mahasiswa, program studi dan DBS  terkait status pengajuan.
 
 ## Cara Kerja Sistem
 
